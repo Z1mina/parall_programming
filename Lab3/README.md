@@ -38,7 +38,7 @@
 #include <ctime>
 #include <cstdlib>
 
-void multiply(int n, int A[1000][1000], int B[1000][1000], int C[1000][1000])
+void multiply(int n, int A[2000][2000], int B[2000][2000], int C[2000][2000])
 {
     int i, j, k;
     for (i = 0; i < n; i++)
